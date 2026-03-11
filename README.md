@@ -6,7 +6,6 @@ Disease Prediction and Specialist Recommendation System is a **machine learning-
 
 **Project Timeline:** Developed and completed between **March 28, 2025** and **April 26, 2025** as an academic project for my **Machine Learning course** during my **Master’s program**.
 
----
 
 ## Overview
 
