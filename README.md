@@ -4,7 +4,7 @@
 
 Disease Prediction and Specialist Recommendation System is a **machine learning-based healthcare decision-support project** that predicts a likely disease from user-entered symptoms, maps that disease to the most relevant medical specialist, and then recommends a top-ranked doctor using structured doctor profile data. The project was built as an end-to-end pipeline so the system does not stop at classification alone, but continues into actionable recommendation.
 
-**Project Timeline:** Developed as a **machine learning and healthcare analytics project** to build an end-to-end system that connects **symptom-based disease prediction** with **specialist recommendation** and **doctor ranking**.
+**Project Timeline:** Developed and completed between **March 28, 2025** and **April 26, 2025** as an academic project for my **Machine Learning course** during my **Master’s program**.
 
 ---
 
